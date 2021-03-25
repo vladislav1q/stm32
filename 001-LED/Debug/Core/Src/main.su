@@ -1,0 +1,16 @@
+main.c:116:5:main	160	static
+main.c:222:6:SystemClock_Config	104	static
+main.c:264:13:MX_ADC_Init	24	static
+main.c:316:13:MX_TIM2_Init	48	static
+main.c:373:13:MX_TIM3_Init	48	static
+main.c:430:13:MX_TIM16_Init	72	static
+main.c:492:13:MX_TIM17_Init	72	static
+main.c:554:13:MX_USART1_UART_Init	8	static
+main.c:589:13:MX_GPIO_Init	48	static
+main.c:640:6:StartDefaultTask	40	static
+main.c:689:6:StartWaterSensor	16	static
+main.c:716:6:StartLightSensor	40	static
+main.c:762:6:StartDistSensor	56	static,ignoring_inline_asm
+main.c:837:6:StartButton	16	static
+main.c:889:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:906:6:Error_Handler	8	static
